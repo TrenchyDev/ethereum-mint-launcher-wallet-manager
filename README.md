@@ -63,3 +63,5 @@ downloads the moment a wallet is made). Nothing reaches this app's server.
 - Every endpoint: [openapi.json](https://api.trenchy.tools/openapi.json).
 
 MIT licensed.
+
+<!-- icons -->
