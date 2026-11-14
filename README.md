@@ -65,3 +65,4 @@ downloads the moment a wallet is made). Nothing reaches this app's server.
 MIT licensed.
 
 <!-- icons -->
+.
